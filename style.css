@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.test_image_and_result{
+    background-color: blue;
+    margin: 10px;
+    border-radius: 10px;
+}
